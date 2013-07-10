@@ -87,8 +87,9 @@ ul.posts span {
 }
 
 .site .header a.extra {
-  color: #aaa;
+  color: #ccc;
   margin-left: 1em;
+  font-weight: lighter;
 }
 
 .site .header a.extra:hover {
