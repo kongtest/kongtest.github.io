@@ -41,4 +41,5 @@ Being a global citizen is not a certification, you don't need to prove it. Being
 
 - Can you work as a freelancer?
 
-...
+  
+Improve your skill sets, open your mind and receive more opportunities from this wonderful world!
