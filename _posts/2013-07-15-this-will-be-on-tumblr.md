@@ -5,4 +5,4 @@ title: This will be on Tumblr
 Now both Github and Tumblr and sync with Evernote.
 
   
-This is great for user, b
+BlogWith hopes to bring the next level of blogging, where user only need to write. No longer care about how to publish their post. BlogWith will do it automatically!
