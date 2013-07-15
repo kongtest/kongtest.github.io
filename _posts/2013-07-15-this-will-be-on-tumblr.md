@@ -2,4 +2,7 @@
 layout: post
 title: This will be on Tumblr
 ---
-Yeah!
+Now both Github and Tumblr and sync with Evernote.
+
+  
+This is great for user, b
