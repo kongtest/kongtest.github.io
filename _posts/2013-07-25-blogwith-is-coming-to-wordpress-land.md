@@ -14,4 +14,4 @@ I need to work more, image is the next exciting part.
   
   
   
-![](/images/951b6c65-0743-4b5d-8b90-8a5c1dcefdbe/mementomovieposter02jpeg)
+![](/images/951b6c65-0743-4b5d-8b90-8a5c1dcefdbe/mementomovieposter02.jpeg)
